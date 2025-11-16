@@ -24,7 +24,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 �
 �
  **¡No necesitas registrarte!** 
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico. - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5) - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 
+### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico. - **Enlace**: [Ver la lección](https://youtu.be/4LxJMx_i4fI?si=2IFsOcOntpFMZ6bp) - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 
 �
 �
  ### Lección 6: Consejos y próximos pasos (10 minutos) - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más. - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6) - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java. - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form) 
@@ -37,6 +37,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
+| 6 |  Proyecto Final y Buenas Prácticas | 
 **¡Gracias por completar el curso!** --- 
 ## 
 �
@@ -46,8 +47,19 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software 
 Período 202520 
 1ASI0729 Desarrollo de Aplicaciones Open Source 
-NRC [Número de NRC] 
-**Nombre del equipo**: [Nombre de tu equipo] 
-**Líder del equipo**: [Nombres y Apellidos] 
-**Integrantes del equipo**: [Nombres y Apellidos] 
-**Fecha de entrega**: [Fecha
+NRC 7385
+
+**Nombre del equipo**: FixTech
+
+**Líder del equipo**: Cesar Augusto Arostegui Alzamora
+
+**Integrantes del equipo**: 
+- Cesar Augusto Arostegui Alzamora
+- Gianmarco Fabian Jiménez Guerra
+- Alexander Gabriel Montoya Torres
+- Alicia Avril Navarro Chang
+- Piero Francesco Tenorio Medina
+- Renso Anthony Julca Cruz
+
+
+**Fecha de entrega**: 16/11/2025
