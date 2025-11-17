@@ -66,7 +66,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 
 **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". 
 
-**Practica**: [Clic para programar](https://www.programiz.com/online-compiler/1V48tTkzoGD7i)
+**Practica**: [Clic para programar](https://www.programiz.com/online-compiler/7jC65tBgjvJRr)
 
 
  ### Lección 6: Proyecto final y buenas prácticas (X minutos) 
