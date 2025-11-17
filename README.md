@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Conclusiones clave**: Usa int, String; declara como int age = 15; 
 
-**Práctica**: [Clic para programar](https://www.programiz.com/online-compiler/2UzbiFUkxZrE3)
+**Práctica**: [Clic para programar](https://www.programiz.com/online-compiler/05reYq7NoVoJ2)
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (X minutos) 
 **Descripción**: Toma decisiones con if-else y repite tareas con bucles. 
