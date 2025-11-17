@@ -50,10 +50,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - Parámetros y retorno.
 - Uso de Scanner para leer datos desde consola.
 - Ejemplo: método que recibe nombre y edad.
-
-**Enlace**: <https://youtu.be/CA8cV_JqHWM><br>
-**Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.<br>
-**Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
+- **Enlace**: <https://youtu.be/CA8cV_JqHWM><br>
+- **Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.<br>
+- **Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
 
 
 
