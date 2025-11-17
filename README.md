@@ -30,7 +30,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 
 **Enlace**: <https://youtu.be/9Vqk6RlKO5o>
 **Conclusiones clave**: Usa int, String; declara como int age = 15; 
-**Práctica**: <https://replit.com/@your-variables-java>
+**Práctica**: [Clic para programar](https://www.programiz.com/online-compiler/2UzbiFUkxZrE3)
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (X minutos) 
 **Descripción**: Toma decisiones con if-else y repite tareas con bucles. 
