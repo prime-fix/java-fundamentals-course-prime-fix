@@ -56,7 +56,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 
 
 
-### Lección 5: Introducción a la Programación Orientada a Objetos (X minutos)  
+### Lección 5: Introducción a la Programación Orientada a Objetos (14:32 minutos)  
 **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - Creación de una clase simple (Estudiante o Producto).
 - Métodos que operan sobre atributos.
@@ -64,7 +64,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 
 **Enlace**: <https://youtu.be/4LxJMx_i4fI?si=2IFsOcOntpFMZ6bp>
 **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". 
-**Proyecto final**: <https://replit.com/@your-final-java>
+**Practica**: [Clic para programar](https://www.programiz.com/online-compiler/1V48tTkzoGD7i)
 
 
  ### Lección 6: Proyecto final y buenas prácticas (X minutos) 
@@ -85,7 +85,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | 2 | Actividad2 | [Replit](https://replit.com/@your-lesson2) | 
 | 3 | Actividad3 | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
 | 4 | Métodos y entrada/salida básica | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
-| 5 | Actividad5 | [Replit](https://replit.com/@your-lesson5) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
+| 5 | Actividad5 | [Programiz](https://www.programiz.com/online-compiler/1V48tTkzoGD7i) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
 | 6 |  Actividad6 | 
 **¡Gracias por completar el curso!** --- 
 ## 
