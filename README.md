@@ -34,21 +34,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Enlace**: <https://youtu.be/9Vqk6RlKO5o>
 
-**Conclusiones clave**: Usa int, String; declara como int age = 15; 
-
 **Práctica**: [Clic para programar](https://www.programiz.com/online-compiler/05reYq7NoVoJ2)
 
-### Lección 3: Estructuras de control: Decisiones y bucles (X minutos) 
+### Lección 3: Estructuras de control: Decisiones y bucles (11:54 minutos) 
 **Descripción**: Toma decisiones con if-else y repite tareas con bucles. 
 - Condicionales (if, else if, else).
 - Bucles for y while.
 - Ejemplo: contador o verificación de número par/impar.
 
-**Enlace**: <https://www.youtube.com/watch?v=example-link3> 
-
-**Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {} 
-
-**Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 
+**Enlace**: <https://youtu.be/jCGU-tZQcFY|> 
 
 ### Lección 4: Métodos y entrada/salida básica (12:55 minutos) 
 **Descripción**: Crea código reutilizable con métodos, y obtén la entrada del usuario.
@@ -94,10 +88,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |----------|----------|-------------| 
 | 1 | Actividad1 | <https://replit.com/@your-lesson1> | 
 | 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/online-compiler/2cfrlDkqagWyq> | 
-| 3 | Actividad3 | <https://jdoodle.com/execute-java-online/your-lesson3> | 
+| 3 | Actividad3 | <https://www.programiz.com/online-compiler/9wjnHAfh1TmCk> | 
 | 4 | Métodos y entrada/salida básica | <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO> | 
 | 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/1V48tTkzoGD7i> |
-| 6 |  MiniProyecto de Juego de Adivinanzas | https://www.programiz.com/online-compiler/8BWUm2olJFmyr  |
+| 6 |  MiniProyecto de Juego de Adivinanzas | <https://www.programiz.com/online-compiler/8BWUm2olJFmyr>  |
 
 **¡Gracias por completar el curso!** 
 
