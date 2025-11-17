@@ -60,7 +60,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Enlace**: <https://youtu.be/CA8cV_JqHWM><br>
 **Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.<br>
 **Código**: <https://github.com/prime-fix/java-fundamentals-course-prime-fix/blob/main/Lecciones/Leccion%204/leccion4.java><br>
-**Programiz**: <https://www.programiz.com/java-programming/online-compiler><br>
+**Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
 
 
 
@@ -96,7 +96,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Actividad1 | <https://replit.com/@your-lesson1> | 
 | 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/online-compiler/2cfrlDkqagWyq> | 
 | 3 | Actividad3 | <https://jdoodle.com/execute-java-online/your-lesson3> | 
-| 4 | Métodos y entrada/salida básica | <https://www.programiz.com/java-programming/online-compiler> | 
+| 4 | Métodos y entrada/salida básica | <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO> | 
 | 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/1V48tTkzoGD7i> |
 | 6 |  MiniProyecto de Juego de Adivinanzas | https://www.programiz.com/online-compiler/8BWUm2olJFmyr  |
 
