@@ -28,7 +28,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - Operadores aritméticos y lógicos.
 - Ejemplos de expresiones simples en código.
 
-**Enlace**: <https://www.youtube.com/watch?v=example-link2>
+**Enlace**: <https://youtu.be/9Vqk6RlKO5o>
 **Conclusiones clave**: Usa int, String; declara como int age = 15; 
 **Práctica**: <https://replit.com/@your-variables-java>
 
