@@ -63,7 +63,9 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - Encapsulación con getters/setters.
 
 **Enlace**: <https://youtu.be/4LxJMx_i4fI?si=2IFsOcOntpFMZ6bp>
+
 **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". 
+
 **Practica**: [Clic para programar](https://www.programiz.com/online-compiler/1V48tTkzoGD7i)
 
 
@@ -85,7 +87,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | 2 | Actividad2 | [Replit](https://replit.com/@your-lesson2) | 
 | 3 | Actividad3 | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
 | 4 | Métodos y entrada/salida básica | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
-| 5 | Actividad5 | [Programiz](https://www.programiz.com/online-compiler/1V48tTkzoGD7i) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
+| 5 | Coneptos Básicos de POO | [Programiz](https://www.programiz.com/online-compiler/1V48tTkzoGD7i) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
 | 6 |  Actividad6 | 
 **¡Gracias por completar el curso!** --- 
 ## 
