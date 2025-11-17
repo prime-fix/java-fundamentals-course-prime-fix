@@ -59,7 +59,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Enlace**: <https://youtu.be/CA8cV_JqHWM><br>
 **Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.<br>
-**Código**: <https://github.com/prime-fix/java-fundamentals-course-prime-fix/blob/main/Lecciones/Leccion%204/leccion4.java><br>
 **Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
 
 
