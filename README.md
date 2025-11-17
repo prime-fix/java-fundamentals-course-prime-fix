@@ -42,7 +42,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {} 
 **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 
 
-### Lección 4: Métodos y entrada/salida básica (X minutos) 
+### Lección 4: Métodos y entrada/salida básica (12:55 minutos) 
 **Descripción**: Crea código reutilizable con métodos, y obtén la entrada del usuario.
 - Definición de métodos (funciones).
 - Parámetros y retorno.
