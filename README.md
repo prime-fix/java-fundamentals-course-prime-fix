@@ -24,7 +24,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. 
 
-**Empieza a programar**: <https://replit.com/@your-starter-java>
+**Empieza a programar**: <https://www.programiz.com/java-programming/online-compiler>
 
 ### Lección 2: Sintaxis básica y tipos de datos (7:44 minutos) 
 **Descripción**: Aprende a almacenar datos en Java usando variables. 
@@ -86,12 +86,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Actividad1 | <https://replit.com/@your-lesson1> | 
-| 2 | Actividad2 | <https://www.programiz.com/java-programming/online-compiler> | 
-| 3 | Actividad3 | <https://jdoodle.com/execute-java-online/your-lesson3> | 
+| 1 | Introducción a la programación y a Java | <https://www.programiz.com/java-programming/online-compiler> | 
+| 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/java-programming/online-compiler> | 
+| 3 | Estructuras de control  | <https://www.programiz.com/online-compiler/9wjnHAfh1TmCk> | 
 | 4 | Métodos y entrada/salida básica | <https://www.programiz.com/java-programming/online-compiler> | 
-| 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/8fAXKfCXYyPck> |
-| 6 |  MiniProyecto de Juego de Adivinanzas | https://www.programiz.com/online-compiler/8BWUm2olJFmyr  |
+| 5 | Conceptos Básicos de POO | <https://www.programiz.com/online-compiler/8fAXKfCXYyPck> |
+| 6 |  MiniProyecto de Juego de Adivinanzas | <https://www.programiz.com/online-compiler/8BWUm2olJFmyr>  |
 
 **¡Gracias por completar el curso!** 
 
