@@ -1,66 +1,108 @@
 import java.util.Scanner;
 import java.util.Random;
 
+/*
+ * EJERCICIO: Completar la clase GuessGame usando POO
+ * - Crear atributos privados
+ * - Inicializarlos en el constructor
+ * - Implementar un método para verificar el intento
+ * - Crear getters para intentos y número secreto
+ */
 
 class GuessGame {
 
-    private int numeroSecreto;
-    private int intentos;
+    // TODO: 1. Crear un atributo privado llamado numeroSecreto (tipo int)
+    // private int numeroSecreto;
 
-    // Constructor
+    // TODO: 2. Crear un atributo privado llamado intentos (tipo int)
+    // private int intentos;
+
+    // TODO: 3. Crear el constructor de GuessGame
     public GuessGame() {
-        Random random = new Random();
-        this.numeroSecreto = random.nextInt(100) + 1; // número de 1 a 100
-        this.intentos = 0;
+        // Debe:
+        // - Crear un objeto Random
+        // - Asignar un número aleatorio entre 1 y 100 al atributo numeroSecreto
+        // - Inicializar el contador intentos en 0
+
+        // Ejemplo de guía:
+        // Random random = new Random();
+        // numeroSecreto = random.nextInt(100) + 1;
+
+        // Completar aquí
     }
 
-    // Método que verifica el intento del usuario
+    // TODO: 4. Crear un método llamado verificarIntento que:
+    // - Reciba un int (el número del usuario)
+    // - Aumente el contador de intentos
+    // - Compare con el número secreto usando if / else
+    // - Devuelva un mensaje indicando si es mayor, menor o correcto
     public String verificarIntento(int intentoUsuario) {
-        intentos++;
 
-        if (intentoUsuario < numeroSecreto) {
-            return "El numero es mayor ";
-        } else if (intentoUsuario > numeroSecreto) {
-            return "El numero es menor ";
-        } else {
-            return "¡Correcto! Adivinaste el numero.";
-        }
+        // intentos++;  // (Sugerencia)
+
+        // TODO: Implementar comparaciones:
+        // if (intentoUsuario < numeroSecreto) { ... }
+        // else if (intentoUsuario > numeroSecreto) { ... }
+        // else { ... }
+
+        return ""; // TODO: reemplazar con el mensaje correcto
     }
 
-    public int getIntentos() {
-        return intentos;
-    }
+    // TODO: 5. Crear un método getIntentos() que devuelva la variable intentos
+    // public int getIntentos() { }
 
-    public int getNumeroSecreto() {
-        return numeroSecreto;
-    }
+    // TODO: 6. Crear un método getNumeroSecreto() que devuelva numeroSecreto
+    // public int getNumeroSecreto() { }
 }
+
+
+/*
+ * EJERCICIO: Completar el método main
+ * - Crear un objeto GuessGame
+ * - Usar Scanner para pedir números al usuario
+ * - Repetir hasta que adivine
+ * - Mostrar resultados finales
+ */
 
 public class Main {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        GuessGame juego = new GuessGame();
+        // TODO: 7. Crear objeto Scanner para leer datos del usuario
+        // Scanner scanner = new Scanner(System.in);
+
+        // TODO: 8. Crear un objeto GuessGame llamado juego
+        // GuessGame juego = new GuessGame();
 
         System.out.println("Bienvenido al Juego de Adivinanza");
-        System.out.println("Estoy pensando en un numero entre 1 y 100. Intenta adivinarlo");
+        System.out.println("Estoy pensando en un número entre 1 y 100. Intenta adivinarlo.");
 
-        boolean adivinado = false;
+        // TODO: 9. Crear variable booleana llamada adivinado y ponerla en false
+        // boolean adivinado = false;
 
-        while (!adivinado) {
-            System.out.print("Ingresa tu intento: ");
-            int intento = scanner.nextInt();
+        // TODO: 10. Crear un bucle while que siga hasta que se adivine
+        // while (!adivinado) {
 
-            String resultado = juego.verificarIntento(intento);
-            System.out.println(resultado);
+            // TODO: 11. Pedir al usuario que ingrese un número
+            // System.out.print("Ingresa tu intento: ");
+            // int intento = scanner.nextInt();
 
-            if (resultado.contains("Correcto")) {
-                adivinado = true;
-            }
-        }
+            // TODO: 12. Llamar al método verificarIntento del objeto juego
+            // String resultado = juego.verificarIntento(intento);
 
-        System.out.println("\nNumero secreto: " + juego.getNumeroSecreto());
-        System.out.println("Lo lograste en " + juego.getIntentos() + " intentos.");
-        System.out.println("Gracias por jugar");
+            // TODO: 13. Mostrar el resultado
+            // System.out.println(resultado);
+
+            // TODO: 14. Verificar si el resultado contiene la palabra "Correcto"
+            // y cambiar adivinado a true si es así
+        // }
+
+        // TODO: 15. Mostrar al final:
+        // • El número secreto
+        // • La cantidad de intentos
+        // • Un mensaje de despedida
+
+        // System.out.println("Número secreto: " + ... );
+        // System.out.println("Intentos: " + ... );
+        // System.out.println("Gracias por jugar.");
     }
 }
