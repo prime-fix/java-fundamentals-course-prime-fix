@@ -49,8 +49,8 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - Uso de Scanner para leer datos desde consola.
 - Ejemplo: método que recibe nombre y edad.
 
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4) 
-**Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; } 
+**Enlace**: <https://youtu.be/CA8cV_JqHWM>
+**Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.
 **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 
 
 
