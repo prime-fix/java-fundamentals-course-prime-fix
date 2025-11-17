@@ -22,7 +22,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. 
 **Empieza a programar**: <https://replit.com/@your-starter-java>
 
-### Lección 2: Sintaxis básica y tipos de datos (X minutos) 
+### Lección 2: Sintaxis básica y tipos de datos (7:44 minutos) 
 **Descripción**: Aprende a almacenar datos en Java usando variables. 
 - Variables y tipos de datos (int, double, String, boolean).
 - Operadores aritméticos y lógicos.
@@ -84,7 +84,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
 | 1 | Actividad1 | [Replit](https://replit.com/@your-lesson1) | 
-| 2 | Actividad2 | [Replit](https://replit.com/@your-lesson2) | 
+| 2 | Actividad2 | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
 | 3 | Actividad3 | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
 | 4 | Métodos y entrada/salida básica | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
 | 5 | Coneptos Básicos de POO | [Programiz](https://www.programiz.com/online-compiler/1V48tTkzoGD7i) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
