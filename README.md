@@ -21,7 +21,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - Primer “Hola Mundo”. - 
 
 **Enlace**: <https://www.youtube.com/watch?v=example-link1> 
+
 **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. 
+
 **Empieza a programar**: <https://replit.com/@your-starter-java>
 
 ### Lección 2: Sintaxis básica y tipos de datos (7:44 minutos) 
@@ -31,7 +33,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - Ejemplos de expresiones simples en código.
 
 **Enlace**: <https://youtu.be/9Vqk6RlKO5o>
+
 **Conclusiones clave**: Usa int, String; declara como int age = 15; 
+
 **Práctica**: [Clic para programar](https://www.programiz.com/online-compiler/2UzbiFUkxZrE3)
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (X minutos) 
@@ -41,7 +45,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - Ejemplo: contador o verificación de número par/impar.
 
 **Enlace**: <https://www.youtube.com/watch?v=example-link3> 
+
 **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {} 
+
 **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 
 
 ### Lección 4: Métodos y entrada/salida básica (12:55 minutos) 
@@ -70,7 +76,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Practica**: [Clic para programar](https://www.programiz.com/online-compiler/7jC65tBgjvJRr)
 
- ### Lección 6: Proyecto final y buenas prácticas (X minutos) 
+ ### Lección 6: Proyecto final y buenas prácticas (12:44 minutos) 
  **Descripción**: Mejores prácticas, errores comunes y dónde aprender más. 
  - Mini proyecto integrador de un Juego de adivinanza.
  - Cómo aplicar lo aprendido.
