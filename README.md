@@ -19,8 +19,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - ¿Qué es Java?
 - ¿Por qué es tan usado?
 - Primer “Hola Mundo”.
-- **Enlace**: <https://www.youtube.com/watch?v=example-link1> 
-- **Empieza a programar**: <https://www.programiz.com/java-programming/online-compiler>
+- **Enlace**: <[https://www.youtube.com/watch?v=cczeiVpfn_A](https://www.youtube.com/watch?v=cczeiVpfn_A)> 
+- **Empieza a programar**: <[https://www.programiz.com/online-compiler/0MSF3FyGTnH61](https://www.programiz.com/online-compiler/0MSF3FyGTnH61)>
 
 ### Lección 2: Sintaxis básica y tipos de datos (7:44 minutos) 
 **Descripción**: Variables y tipos de datos (int, double, String, boolean).
