@@ -91,7 +91,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2 | Actividad2 | <https://www.programiz.com/java-programming/online-compiler> | 
 | 3 | Actividad3 | <https://jdoodle.com/execute-java-online/your-lesson3> | 
 | 4 | Métodos y entrada/salida básica | <https://www.programiz.com/java-programming/online-compiler> | 
-| 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/1V48tTkzoGD7i> |
+| 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/8fAXKfCXYyPck> |
 | 6 |  MiniProyecto de Juego de Adivinanzas | https://www.programiz.com/online-compiler/8BWUm2olJFmyr  |
 
 **¡Gracias por completar el curso!** 
