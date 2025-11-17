@@ -88,7 +88,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
 | 1 | Actividad1 | <https://replit.com/@your-lesson1> | 
-| 2 | Actividad2 | <https://www.programiz.com/java-programming/online-compiler> | 
+| 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/online-compiler/2cfrlDkqagWyq> | 
 | 3 | Actividad3 | <https://jdoodle.com/execute-java-online/your-lesson3> | 
 | 4 | Métodos y entrada/salida básica | <https://www.programiz.com/java-programming/online-compiler> | 
 | 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/1V48tTkzoGD7i> |
