@@ -1,15 +1,19 @@
 # Fundamentos de Java para Principiantes 
 ## Resumen del Curso 
-Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo 
-programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web. 
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web. 
+
 **Duración total**: ~60 minutos 
+
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación 
+
 **Prerrequisitos**: Ninguno 
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
-**
- 📂
- Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course
+
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)**
+
+📂Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course
 teamname](https://github.com/yourusername/java-fundamentals-course-teamname) 
+
+
 ## Secuencia de la Lección 
 ### Lección 1: Introducción a la programación y a Java. (X minutos)
 **Descripción**: Aprende sobre Java para empezar:
@@ -68,30 +72,31 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 
 **Practica**: [Clic para programar](https://www.programiz.com/online-compiler/7jC65tBgjvJRr)
 
-
  ### Lección 6: Proyecto final y buenas prácticas (X minutos) 
  **Descripción**: Mejores prácticas, errores comunes y dónde aprender más. 
- - Mini proyecto integrador (por ejemplo: “Registro de Estudiantes” o “Juego de adivinanza”).
+ - Mini proyecto integrador de un Juego de adivinanza.
  - Cómo aplicar lo aprendido.
  - Mejores prácticas y errores comunes.
  - Cierre y conclusión del curso.
- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6) 
- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java. 
- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form) 
+ **Enlace**: <https://youtu.be/HgJJq0MQcTE>
+ **Consejos clave**: Depurar errores.
 **¡Guarda y comparte!** 
 
 ## Recursos adicionales - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname) - **Todas las actividades prácticas**: 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Actividad1 | [Replit](https://replit.com/@your-lesson1) | 
-| 2 | Actividad2 | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
-| 3 | Actividad3 | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
-| 4 | Métodos y entrada/salida básica | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
-| 5 | Coneptos Básicos de POO | [Programiz](https://www.programiz.com/online-compiler/1V48tTkzoGD7i) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
-| 6 |  Actividad6 | 
-**¡Gracias por completar el curso!** --- 
-## 
- Elaboración 
+| 1 | Actividad1 | <https://replit.com/@your-lesson1> | 
+| 2 | Actividad2 | <https://www.programiz.com/java-programming/online-compiler> | 
+| 3 | Actividad3 | <https://jdoodle.com/execute-java-online/your-lesson3> | 
+| 4 | Métodos y entrada/salida básica | <https://www.programiz.com/java-programming/online-compiler> | 
+| 5 | Coneptos Básicos de POO | <https://www.programiz.com/online-compiler/1V48tTkzoGD7i> |
+| 6 |  MiniProyecto de Juego de Adivinanzas | https://www.programiz.com/online-compiler/8BWUm2olJFmyr  |
+
+**¡Gracias por completar el curso!** 
+
+--- 
+
+## Elaboración 
 Universidad Peruana de Ciencias Aplicadas 
 Carrera de Ingeniería de Software 
 Período 202520 
@@ -109,6 +114,5 @@ NRC 7385
 - Alicia Avril Navarro Chang
 - Piero Francesco Tenorio Medina
 - Renso Anthony Julca Cruz
-
 
 **Fecha de entrega**: 16/11/2025
