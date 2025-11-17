@@ -8,11 +8,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Prerrequisitos**: Ninguno 
 
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)**
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-📂Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course
-teamname](https://github.com/yourusername/java-fundamentals-course-teamname) 
-
+**Repositorio de Código Fuente**: [<https://github.com/prime-fix/java-fundamentals-course-prime-fix>
 
 ## Secuencia de la Lección 
 ### Lección 1: Introducción a la programación y a Java. (X minutos)
@@ -78,11 +76,15 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
  - Cómo aplicar lo aprendido.
  - Mejores prácticas y errores comunes.
  - Cierre y conclusión del curso.
- **Enlace**: <https://youtu.be/HgJJq0MQcTE>
- **Consejos clave**: Depurar errores.
+ - **Enlace**: <https://youtu.be/HgJJq0MQcTE>
+ - **Consejos clave**: Depurar errores
+ 
 **¡Guarda y comparte!** 
 
-## Recursos adicionales - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname) - **Todas las actividades prácticas**: 
+## Recursos adicionales 
+- **Código fuente completo**: <https://github.com/prime-fix/java-fundamentals-course-prime-fix> 
+- **Todas las actividades prácticas**: 
+
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
 | 1 | Actividad1 | <https://replit.com/@your-lesson1> | 
