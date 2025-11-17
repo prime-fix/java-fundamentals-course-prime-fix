@@ -13,7 +13,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Repositorio de Código Fuente**: <https://github.com/prime-fix/java-fundamentals-course-prime-fix>
 
 ## Secuencia de la Lección 
-### Lección 1: Introducción a la programación y a Java. (X minutos)
+### Lección 1: Introducción a la programación y a Java. (6:46 minutos)
 **Descripción**: Aprende sobre Java para empezar:
 - ¿Qué es programar?
 - ¿Qué es Java?
