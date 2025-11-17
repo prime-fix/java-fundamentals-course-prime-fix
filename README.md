@@ -49,9 +49,11 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - Uso de Scanner para leer datos desde consola.
 - Ejemplo: método que recibe nombre y edad.
 
-**Enlace**: <https://youtu.be/CA8cV_JqHWM>
-**Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.
-**Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 
+**Enlace**: <https://youtu.be/CA8cV_JqHWM><br>
+**Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.<br>
+**Código**: <https://github.com/prime-fix/java-fundamentals-course-prime-fix/blob/main/Lecciones/Leccion%204/leccion4.java><br>
+**Programiz**: <https://www.programiz.com/java-programming/online-compiler><br>
+
 
 
 ### Lección 5: Introducción a la Programación Orientada a Objetos (X minutos)  
@@ -79,12 +81,12 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 ## Recursos adicionales - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname) - **Todas las actividades prácticas**: 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) | 
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) | 
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
-| 6 |  Proyecto Final y Buenas Prácticas | 
+| 1 | Actividad1 | [Replit](https://replit.com/@your-lesson1) | 
+| 2 | Actividad2 | [Replit](https://replit.com/@your-lesson2) | 
+| 3 | Actividad3 | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
+| 4 | Métodos y entrada/salida básica | [Programiz](https://www.programiz.com/java-programming/online-compiler) | 
+| 5 | Actividad5 | [Replit](https://replit.com/@your-lesson5) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
+| 6 |  Actividad6 | 
 **¡Gracias por completar el curso!** --- 
 ## 
  Elaboración 
