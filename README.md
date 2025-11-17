@@ -19,8 +19,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - ¿Qué es Java?
 - ¿Por qué es tan usado?
 - Primer “Hola Mundo”.
-- **Enlace**: <[https://www.youtube.com/watch?v=cczeiVpfn_A](https://www.youtube.com/watch?v=cczeiVpfn_A)> 
-- **Empieza a programar**: <[https://www.programiz.com/online-compiler/7dIjCv6V7ht1L](https://www.programiz.com/online-compiler/7dIjCv6V7ht1L)>
+- **Enlace**: <https://www.youtube.com/watch?v=cczeiVpfn_A>
+- **Empieza a programar**: <https://www.programiz.com/online-compiler/7dIjCv6V7ht1L>
   
 
 ### Lección 2: Sintaxis básica y tipos de datos (7:44 minutos) 
@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Introducción a la programación y a Java | <https://www.programiz.com/java-programming/online-compiler> | 
+| 1 | Introducción a la programación y a Java | <https://www.programiz.com/online-compiler/7dIjCv6V7ht1L> | 
 | 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/java-programming/online-compiler> | 
 | 3 | Estructuras de control  | <https://www.programiz.com/online-compiler/9wjnHAfh1TmCk> | 
 | 4 | Métodos y entrada/salida básica | <https://acortar.link/gigy7R> | 
