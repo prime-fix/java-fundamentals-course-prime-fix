@@ -18,31 +18,23 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - ¿Qué es programar?
 - ¿Qué es Java?
 - ¿Por qué es tan usado?
-- Primer “Hola Mundo”. - 
-
-**Enlace**: <https://www.youtube.com/watch?v=example-link1> 
-
-**Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. 
-
-**Empieza a programar**: <https://www.programiz.com/java-programming/online-compiler>
+- Primer “Hola Mundo”.
+- **Enlace**: <https://www.youtube.com/watch?v=example-link1> 
+- **Empieza a programar**: <https://www.programiz.com/java-programming/online-compiler>
 
 ### Lección 2: Sintaxis básica y tipos de datos (7:44 minutos) 
-**Descripción**: Aprende a almacenar datos en Java usando variables. 
-- Variables y tipos de datos (int, double, String, boolean).
+**Descripción**: Variables y tipos de datos (int, double, String, boolean).
 - Operadores aritméticos y lógicos.
 - Ejemplos de expresiones simples en código.
-
-**Enlace**: <https://youtu.be/9Vqk6RlKO5o>
-
-**Práctica**: [Clic para programar](https://www.programiz.com/online-compiler/05reYq7NoVoJ2)
+- **Enlace**: <https://youtu.be/9Vqk6RlKO5o> <br>
+- **Programiz**: <https://www.programiz.com/online-compiler/05reYq7NoVoJ2> <br>
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (11:54 minutos) 
-**Descripción**: Toma decisiones con if-else y repite tareas con bucles. 
+- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - Condicionales (if, else if, else).
-- Bucles for y while.
 - Ejemplo: contador o verificación de número par/impar.
-
-**Enlace**: <https://youtu.be/jCGU-tZQcFY|> 
+- **Enlace**: <https://youtu.be/jCGU-tZQcFY>
+- **Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
 
 ### Lección 4: Métodos y entrada/salida básica (12:55 minutos) 
 **Descripción**: Crea código reutilizable con métodos, y obtén la entrada del usuario.
@@ -55,18 +47,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
 
 
-
 ### Lección 5: Introducción a la Programación Orientada a Objetos (14:32 minutos)  
 **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - Creación de una clase simple (Estudiante o Producto).
 - Métodos que operan sobre atributos.
 - Encapsulación con getters/setters.
-
-**Enlace**: <https://youtu.be/4LxJMx_i4fI?si=2IFsOcOntpFMZ6bp>
-
-**Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". 
-
-**Practica**: [Clic para programar](https://www.programiz.com/online-compiler/7jC65tBgjvJRr)
+- **Enlace**: <https://youtu.be/4LxJMx_i4fI?si=2IFsOcOntpFMZ6bp> <br>
+- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas". 
+- **Practica**: <https://www.programiz.com/online-compiler/7jC65tBgjvJRr> <br>
 
  ### Lección 6: Proyecto final y buenas prácticas (12:44 minutos) 
  **Descripción**: Mejores prácticas, errores comunes y dónde aprender más. 
@@ -74,8 +62,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
  - Cómo aplicar lo aprendido.
  - Mejores prácticas y errores comunes.
  - Cierre y conclusión del curso.
- - **Enlace**: <https://youtu.be/HgJJq0MQcTE>
+ - **Enlace**: <https://youtu.be/HgJJq0MQcTE> <br>
  - **Consejos clave**: Depurar errores
+ - **Programiz**: <https://www.programiz.com/online-compiler/8BWUm2olJFmyr> <br>
  
 **¡Guarda y comparte!** 
 
