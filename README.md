@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - Ejemplo: método que recibe nombre y edad.
 - **Enlace**: <https://youtu.be/CA8cV_JqHWM><br>
 - **Conclusiones clave**: Los métodos nos permitirán reuitilizar código y el uso de Scanner nos facilitará datos de entrada por parte del usuario.<br>
-- **Programiz**: <https://www.programiz.com/online-compiler/9LqWvuDqvSMcO><br>
+- **Programiz**: <https://acortar.link/gigy7R><br>
 
 
 ### Lección 5: Introducción a la Programación Orientada a Objetos (14:32 minutos)  
@@ -77,7 +77,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Introducción a la programación y a Java | <https://www.programiz.com/java-programming/online-compiler> | 
 | 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/java-programming/online-compiler> | 
 | 3 | Estructuras de control  | <https://www.programiz.com/online-compiler/9wjnHAfh1TmCk> | 
-| 4 | Métodos y entrada/salida básica | <https://www.programiz.com/java-programming/online-compiler> | 
+| 4 | Métodos y entrada/salida básica | <https://acortar.link/gigy7R> | 
 | 5 | Conceptos Básicos de POO | <https://www.programiz.com/online-compiler/8fAXKfCXYyPck> |
 | 6 |  MiniProyecto de Juego de Adivinanzas | <https://www.programiz.com/online-compiler/8BWUm2olJFmyr>  |
 
