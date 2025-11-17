@@ -10,7 +10,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**Repositorio de Código Fuente**: [<https://github.com/prime-fix/java-fundamentals-course-prime-fix>
+**Repositorio de Código Fuente**: <https://github.com/prime-fix/java-fundamentals-course-prime-fix>
 
 ## Secuencia de la Lección 
 ### Lección 1: Introducción a la programación y a Java. (X minutos)
