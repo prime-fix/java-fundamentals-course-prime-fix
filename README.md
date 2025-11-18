@@ -76,7 +76,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
 | 1 | Introducción a la programación y a Java | <https://www.programiz.com/online-compiler/7dIjCv6V7ht1L> | 
-| 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/java-programming/online-compiler> | 
+| 2 | Sintaxis básica y tipos de datos | <https://www.programiz.com/online-compiler/05reYq7NoVoJ2> | 
 | 3 | Estructuras de control  | <https://www.programiz.com/online-compiler/9wjnHAfh1TmCk> | 
 | 4 | Métodos y entrada/salida básica | <https://acortar.link/qtAl48> | 
 | 5 | Conceptos Básicos de POO | <https://www.programiz.com/online-compiler/8fAXKfCXYyPck> |
